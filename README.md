@@ -6,4 +6,5 @@ Ecercícios feitos seguindo o curso da Udemy:
 <b>🔍 contar_letras_texto: </b> Contar a quantidade de cada lerta que aparece no texto e mostrar qual aparece mais vezes.</br>
 <b>🧺 lista_compras: </b> Adicionar, remover, enumerar uma lista de compras. </br>
 <b>🎲 contar_letras_texto: </b> Jogo da forca com um random que escolhe as palavras dentro de uma lista de palavras predefinida.</br>
+<b>🕵️‍♀️ verificar_cpf: </b> Verifica se o CPF da pessoa é válido ou não.</br>
 
