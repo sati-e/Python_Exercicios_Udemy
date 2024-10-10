@@ -1,15 +1,3 @@
-# calcular primeiro digito cpf:
-# coletar soma dos 9 primeiros digitos 456.231.345-34
-# multiplicando cada um dos digitos por uma contagem regressiva de 10
-# 10=4, 9=5, 8=6..., somar todos e multiplicar por 10.
-# obter o resto da divisao da conta anterior por 11, e se for maior q 9:
-# resultado = 0, se n o resultado é o valor da conta
-
-# calculo do segundo digito:
-# Exatamente igual o do primeiro
-# mas adicionar mais o primeiro dígito do cpf na conta
-# se o resultado anterior for maior que 9:
-# o resultado é 0, caso contrário é o valor da conta
 
 import re
 import sys
