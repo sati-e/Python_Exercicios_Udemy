@@ -7,4 +7,4 @@ Ecercícios feitos seguindo o curso da Udemy:
 <b>🧺 lista_compras: </b> Adicionar, remover, enumerar uma lista de compras. </br>
 <b>🎲 contar_letras_texto: </b> Jogo da forca com um random que escolhe as palavras dentro de uma lista de palavras predefinida.</br>
 <b>🕵️‍♀️ verificar_cpf: </b> Verifica se o CPF da pessoa é válido ou não.</br>
-
+<b>📎 funct_multiplica_parImpar: </b> Função que multiplica argumentos e outra função que verifica se um número é par ou ímpar.</br>
